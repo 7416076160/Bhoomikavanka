@@ -1,2 +1,2 @@
-# Bhoomikavanka
+$ Bhoomikavanka
 Hackthon
