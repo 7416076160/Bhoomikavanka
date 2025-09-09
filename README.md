@@ -1,2 +1,0 @@
-$ Bhoomikavanka
-Hackthon
